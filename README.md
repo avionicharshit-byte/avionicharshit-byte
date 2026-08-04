@@ -16,7 +16,7 @@ Instant fit verdicts across 31 boards, byte-exact memory measurement using the r
 - [docpilot](https://github.com/avionicharshit-byte/docpilot)
 - [loan-emi-negotiator](https://github.com/avionicharshit-byte/loan-emi-negotiator)
 - [player-journey-visualization-tool](https://github.com/avionicharshit-byte/player-journey-visualization-tool)
-- IoT & embedded builds - [laser turret](https://github.com/avionicharshit-byte/LaserTurret), [fire-alert Telegram bot](https://github.com/avionicharshit-byte/fireAlertTelegram), ground-station firmware
+- IoT & embedded builds - [laser turret](https://github.com/avionicharshit-byte/LaserTurret), [fire-alert Telegram bot](https://github.com/avionicharshit-byte/fireAlertTelegram)
 
 ## 📫 Reach me
 
