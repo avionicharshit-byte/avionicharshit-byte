@@ -1,67 +1,112 @@
-# Hi, I'm Harshit 👋
-
-📍 **India** | 🔩 **Embedded x AI** | 🧪 **On-device ML that actually fits**
-
-I build firmware, IoT hardware, and developer tools for running AI on devices that are too small for it.
-
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![TFLite Micro](https://img.shields.io/badge/-TFLite%20Micro-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Yocto](https://img.shields.io/badge/-Yocto-1C7C54?style=flat-square&logo=linux&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=190&section=header&text=Harshit&fontColor=ffffff&fontSize=68&fontAlignY=36&desc=embedded%20x%20AI&descAlignY=57&descSize=20&animation=fadeIn" width="100%" alt="Harshit" />
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/196127/avionicharshit-byte" alt="Harshit's GitHub contribution heatmap" />
+  <a href="https://avionicharshit-byte.github.io/mcufit/">
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=21&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=firmware%2C+IoT+hardware%2C+and+tools+for+tiny+machines;running+AI+on+devices+that+are+too+small+for+it;what+fits+in+memory%2C+and+when+it+honestly+does+not" alt="firmware, IoT hardware, and tools for tiny machines" />
+  </a>
 </p>
 
-## 🔭 What I'm building
+<p align="center">
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TFLite%20Micro-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Yocto-1C7C54?style=flat-square&logo=linux&logoColor=white" />
+</p>
 
-### [📟 mcufit](https://github.com/avionicharshit-byte/mcufit)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/avionicharshit-byte/avionicharshit-byte/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/avionicharshit-byte/avionicharshit-byte/output/github-snake.svg" />
+  <img alt="contribution grid being eaten by a snake" src="https://raw.githubusercontent.com/avionicharshit-byte/avionicharshit-byte/output/github-snake.svg" width="100%" />
+</picture>
 
-**Check if an AI model fits on a microcontroller, before you flash it.**
-Instant fit verdicts across 31 boards, byte-exact memory measurement using the real TFLite Micro runtime (native *and* WebAssembly), quantization previews, and a CI action.
+<br>
 
-**[🌐 Try it in your browser](https://avionicharshit-byte.github.io/mcufit/)** · `pip install mcufit`
+<img src="https://img.shields.io/badge/WHAT%20I'M%20BUILDING-0F2027?style=for-the-badge&logo=rocket&logoColor=58A6FF" alt="What I'm building" />
 
-### [⏱️ mcufit-bench](https://github.com/avionicharshit-byte/mcufit-bench)
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
 
-**What TensorFlow Lite Micro actually costs on real hardware.**
-The ground truth mcufit is checked against: 54 measurements across 4 models and 3 boards, per model and per layer. Anyone can add a board.
+<a href="https://github.com/avionicharshit-byte/mcufit"><img src="https://img.shields.io/badge/mcufit-2563EB?style=for-the-badge&logo=arduino&logoColor=white" alt="mcufit" /></a>
 
-### [🗜️ openzl-agent](https://github.com/avionicharshit-byte/openzl-agent)
+**Will this model fit on this chip?**
 
-**Format-aware compression without the compression expertise.**
-An agent reads your data, writes the OpenZL data description, trains a compressor, verifies the round-trip byte-for-byte, and reports the savings against zstd and gzip. 50% off a CSV that `zstd -3` had already compressed.
+Answers it before you flash. 31 boards, byte-exact memory from the real TFLite Micro runtime, native and in the browser. Quantization previews and a CI action.
 
-## 🎙 On-device AI
+<a href="https://avionicharshit-byte.github.io/mcufit/"><img src="https://img.shields.io/badge/try%20in%20browser-58A6FF?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/pip%20install%20mcufit-3776AB?style=flat-square&logo=pypi&logoColor=white" />
 
-I work on speech recognition and tool-calling models that run on embedded Linux boards with under 200 MB of RAM and no cloud round trip. Mostly the memory arithmetic: what fits, what an ARMv7 core can hold in real time, and when the honest answer is that it does not fit.
+</td>
+<td width="33%" valign="top" align="center">
 
-## 🔧 Contributing to
+<a href="https://github.com/avionicharshit-byte/mcufit-bench"><img src="https://img.shields.io/badge/mcufit--bench-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="mcufit-bench" /></a>
 
-- **[nlohmann/json](https://github.com/nlohmann/json)** ![Stars](https://img.shields.io/github/stars/nlohmann/json?style=flat&color=gold) - JSON for Modern C++
-- **[yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib)** ![Stars](https://img.shields.io/github/stars/yhirose/cpp-httplib?style=flat&color=gold) - A C++ header-only HTTP/HTTPS server and client library
-- **[livekit/agents](https://github.com/livekit/agents)** ![Stars](https://img.shields.io/github/stars/livekit/agents?style=flat&color=gold) - A framework for building realtime voice AI agents
-- **[cactus-compute/needle](https://github.com/cactus-compute/needle)** ![Stars](https://img.shields.io/github/stars/cactus-compute/needle?style=flat&color=gold) - 14MB foundation model for tiny devices; phones, wearables, smart home, and robots
-- **[growthbook/growthbook](https://github.com/growthbook/growthbook)** ![Stars](https://img.shields.io/github/stars/growthbook/growthbook?style=flat&color=gold) - Open source feature flags, experimentation, and product analytics
-- **[Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio)** ![Stars](https://img.shields.io/github/stars/Serial-Studio/Serial-Studio?style=flat&color=gold) - Open-source telemetry dashboard. UART, BLE, MQTT, Modbus, CAN bus and more
-- **[Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel)** ![Stars](https://img.shields.io/github/stars/Openpanel-dev/openpanel?style=flat&color=gold) - Open-source web and product analytics, an alternative to Mixpanel
-- **[0xShug0/audio.cpp](https://github.com/0xShug0/audio.cpp)** ![Stars](https://img.shields.io/github/stars/0xShug0/audio.cpp?style=flat&color=gold) - Pure C++ inference engine for audio models, powered by ggml
-- **[dearlordylord/huly-mcp](https://github.com/dearlordylord/huly-mcp)** ![Stars](https://img.shields.io/github/stars/dearlordylord/huly-mcp?style=flat&color=gold) - Feature-complete MCP server and CLI for the Huly platform
+**What inference actually costs on real silicon.**
 
-## 🧰 Some other things I've made
+The ground truth mcufit is checked against. 54 measurements across 4 models and 3 boards, per model and per layer, timed on hardware and not estimated. Anyone can add a board.
+
+<img src="https://img.shields.io/badge/54%20measurements-1C7C54?style=flat-square" />
+<img src="https://img.shields.io/badge/3%20boards-1C7C54?style=flat-square" />
+
+</td>
+<td width="33%" valign="top" align="center">
+
+<a href="https://github.com/avionicharshit-byte/openzl-agent"><img src="https://img.shields.io/badge/openzl--agent-8B5CF6?style=for-the-badge&logo=databricks&logoColor=white" alt="openzl-agent" /></a>
+
+**Format-aware compression, without the expertise.**
+
+Point it at your data. It writes the OpenZL description, trains a compressor, verifies the round trip byte for byte, and reports the savings against zstd and gzip.
+
+<img src="https://img.shields.io/badge/50%25%20off%20a%20zstd--3%20CSV-8B5CF6?style=flat-square" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/ON--DEVICE%20AI-0F2027?style=for-the-badge&logo=tensorflow&logoColor=58A6FF" alt="On-device AI" />
+
+Speech recognition and tool-calling models on embedded Linux boards, under 200 MB of RAM, no cloud round trip. Mostly the memory arithmetic: what fits, what an ARMv7 core can hold in real time, and when the honest answer is that it does not.
+
+<br>
+
+<img src="https://img.shields.io/badge/CONTRIBUTING%20TO-0F2027?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Contributing to" />
+
+<table>
+<tr><td><b><a href="https://github.com/nlohmann/json">nlohmann/json</a></b></td><td><img src="https://img.shields.io/github/stars/nlohmann/json?style=flat-square&color=gold&labelColor=0F2027" /></td><td>JSON for Modern C++</td></tr>
+<tr><td><b><a href="https://github.com/yhirose/cpp-httplib">yhirose/cpp-httplib</a></b></td><td><img src="https://img.shields.io/github/stars/yhirose/cpp-httplib?style=flat-square&color=gold&labelColor=0F2027" /></td><td>A C++ header-only HTTP/HTTPS server and client library</td></tr>
+<tr><td><b><a href="https://github.com/livekit/agents">livekit/agents</a></b></td><td><img src="https://img.shields.io/github/stars/livekit/agents?style=flat-square&color=gold&labelColor=0F2027" /></td><td>A framework for building realtime voice AI agents</td></tr>
+<tr><td><b><a href="https://github.com/cactus-compute/needle">cactus-compute/needle</a></b></td><td><img src="https://img.shields.io/github/stars/cactus-compute/needle?style=flat-square&color=gold&labelColor=0F2027" /></td><td>14MB foundation model for phones, wearables, smart home and robots</td></tr>
+<tr><td><b><a href="https://github.com/growthbook/growthbook">growthbook/growthbook</a></b></td><td><img src="https://img.shields.io/github/stars/growthbook/growthbook?style=flat-square&color=gold&labelColor=0F2027" /></td><td>Open source feature flags, experimentation and product analytics</td></tr>
+<tr><td><b><a href="https://github.com/Serial-Studio/Serial-Studio">Serial-Studio/Serial-Studio</a></b></td><td><img src="https://img.shields.io/github/stars/Serial-Studio/Serial-Studio?style=flat-square&color=gold&labelColor=0F2027" /></td><td>Telemetry dashboard for UART, BLE, MQTT, Modbus and CAN bus</td></tr>
+<tr><td><b><a href="https://github.com/Openpanel-dev/openpanel">Openpanel-dev/openpanel</a></b></td><td><img src="https://img.shields.io/github/stars/Openpanel-dev/openpanel?style=flat-square&color=gold&labelColor=0F2027" /></td><td>Open-source web and product analytics, an alternative to Mixpanel</td></tr>
+<tr><td><b><a href="https://github.com/0xShug0/audio.cpp">0xShug0/audio.cpp</a></b></td><td><img src="https://img.shields.io/github/stars/0xShug0/audio.cpp?style=flat-square&color=gold&labelColor=0F2027" /></td><td>Pure C++ inference engine for audio models, powered by ggml</td></tr>
+<tr><td><b><a href="https://github.com/dearlordylord/huly-mcp">dearlordylord/huly-mcp</a></b></td><td><img src="https://img.shields.io/github/stars/dearlordylord/huly-mcp?style=flat-square&color=gold&labelColor=0F2027" /></td><td>MCP server and CLI for the Huly platform</td></tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/ALSO%20BUILT-0F2027?style=for-the-badge&logo=arduino&logoColor=58A6FF" alt="Also built" />
 
 - **[loan-emi-negotiator](https://github.com/avionicharshit-byte/loan-emi-negotiator)** - an agent that drafts a lender-specific rate-negotiation email
 - **[docpilot](https://github.com/avionicharshit-byte/docpilot)** - document collection loop for vehicle-loan officers
 - **[fireAlertTelegram](https://github.com/avionicharshit-byte/fireAlertTelegram)** - ESP32 fire alert that pings you on Telegram
 - **[LaserTurret](https://github.com/avionicharshit-byte/LaserTurret)** - laser module on a servo gimbal, aimed with a PS2 joystick
 
-## 📫 Reach me
+<br>
 
-[![Email](https://img.shields.io/badge/Email-avionicharshit@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:avionicharshit@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-avionicharshit-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/c/avionicharshit)
-[![mcufit](https://img.shields.io/badge/Site-mcufit-2563EB?style=flat-square&logo=githubpages&logoColor=white)](https://avionicharshit-byte.github.io/mcufit/)
+<img src="https://img.shields.io/badge/REACH%20ME-0F2027?style=for-the-badge&logo=maildotru&logoColor=58A6FF" alt="Reach me" />
+
+<p>
+  <a href="mailto:avionicharshit@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.youtube.com/c/avionicharshit"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://avionicharshit-byte.github.io/mcufit/"><img src="https://img.shields.io/badge/mcufit-2563EB?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=110&section=footer" width="100%" alt="" />
