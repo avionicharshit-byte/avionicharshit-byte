@@ -10,17 +10,19 @@
   <img src="https://skillicons.dev/icons?i=cpp,c,python,ts,go,kotlin,linux,cmake,bash,git&theme=dark" alt="C++, C, Python, TypeScript, Go, Kotlin, Linux, CMake, Bash, Git" />
 </p>
 
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/avionicharshit-byte/avionicharshit-byte/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/avionicharshit-byte/avionicharshit-byte/output/github-snake.svg" />
   <img alt="contribution grid being eaten by a snake" src="https://raw.githubusercontent.com/avionicharshit-byte/avionicharshit-byte/output/github-snake.svg" width="100%" />
 </picture>
+</p>
 
 <br>
 
-<img src="https://img.shields.io/badge/WHAT%20I'M%20BUILDING-0F2027?style=for-the-badge&logo=rocket&logoColor=58A6FF" alt="What I'm building" />
+<p align="center"><img src="https://img.shields.io/badge/WHAT%20I'M%20BUILDING-0F2027?style=for-the-badge&logo=rocket&logoColor=58A6FF" alt="What I'm building" /></p>
 
-<table>
+<table align="center">
 <tr>
 <td width="33%" valign="top" align="center">
 
@@ -62,15 +64,18 @@ Point it at your data. It writes the OpenZL description, trains a compressor, ve
 
 <br>
 
-<img src="https://img.shields.io/badge/ON--DEVICE%20AI-0F2027?style=for-the-badge&logo=tensorflow&logoColor=58A6FF" alt="On-device AI" />
+<p align="center"><img src="https://img.shields.io/badge/ON--DEVICE%20AI-0F2027?style=for-the-badge&logo=tensorflow&logoColor=58A6FF" alt="On-device AI" /></p>
 
-Speech recognition and tool-calling models on embedded Linux boards, under 200 MB of RAM, no cloud round trip. Mostly the memory arithmetic: what fits, what an ARMv7 core can hold in real time, and when the honest answer is that it does not.
+<p align="center">
+Speech recognition and tool-calling models on embedded Linux boards, under 200 MB of RAM, no cloud round trip.<br>
+Mostly the memory arithmetic: what fits, what an ARMv7 core can hold in real time, and when the honest answer is that it does not.
+</p>
 
 <br>
 
-<img src="https://img.shields.io/badge/CONTRIBUTING%20TO-0F2027?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Contributing to" />
+<p align="center"><img src="https://img.shields.io/badge/CONTRIBUTING%20TO-0F2027?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Contributing to" /></p>
 
-<table>
+<table align="center">
 <tr><td><b><a href="https://github.com/nlohmann/json">nlohmann/json</a></b></td><td><img src="https://img.shields.io/github/stars/nlohmann/json?style=flat-square&color=gold&labelColor=0F2027" /></td><td>JSON for Modern C++</td></tr>
 <tr><td><b><a href="https://github.com/yhirose/cpp-httplib">yhirose/cpp-httplib</a></b></td><td><img src="https://img.shields.io/github/stars/yhirose/cpp-httplib?style=flat-square&color=gold&labelColor=0F2027" /></td><td>A C++ header-only HTTP/HTTPS server and client library</td></tr>
 <tr><td><b><a href="https://github.com/livekit/agents">livekit/agents</a></b></td><td><img src="https://img.shields.io/github/stars/livekit/agents?style=flat-square&color=gold&labelColor=0F2027" /></td><td>A framework for building realtime voice AI agents</td></tr>
@@ -84,18 +89,20 @@ Speech recognition and tool-calling models on embedded Linux boards, under 200 M
 
 <br>
 
-<img src="https://img.shields.io/badge/ALSO%20BUILT-0F2027?style=for-the-badge&logo=arduino&logoColor=58A6FF" alt="Also built" />
+<p align="center"><img src="https://img.shields.io/badge/ALSO%20BUILT-0F2027?style=for-the-badge&logo=arduino&logoColor=58A6FF" alt="Also built" /></p>
 
-- **[loan-emi-negotiator](https://github.com/avionicharshit-byte/loan-emi-negotiator)** - an agent that drafts a lender-specific rate-negotiation email
-- **[docpilot](https://github.com/avionicharshit-byte/docpilot)** - document collection loop for vehicle-loan officers
-- **[fireAlertTelegram](https://github.com/avionicharshit-byte/fireAlertTelegram)** - ESP32 fire alert that pings you on Telegram
-- **[LaserTurret](https://github.com/avionicharshit-byte/LaserTurret)** - laser module on a servo gimbal, aimed with a PS2 joystick
+<table align="center">
+<tr><td><b><a href="https://github.com/avionicharshit-byte/loan-emi-negotiator">loan-emi-negotiator</a></b></td><td>an agent that drafts a lender-specific rate-negotiation email</td></tr>
+<tr><td><b><a href="https://github.com/avionicharshit-byte/docpilot">docpilot</a></b></td><td>document collection loop for vehicle-loan officers</td></tr>
+<tr><td><b><a href="https://github.com/avionicharshit-byte/fireAlertTelegram">fireAlertTelegram</a></b></td><td>ESP32 fire alert that pings you on Telegram</td></tr>
+<tr><td><b><a href="https://github.com/avionicharshit-byte/LaserTurret">LaserTurret</a></b></td><td>laser module on a servo gimbal, aimed with a PS2 joystick</td></tr>
+</table>
 
 <br>
 
-<img src="https://img.shields.io/badge/REACH%20ME-0F2027?style=for-the-badge&logo=maildotru&logoColor=58A6FF" alt="Reach me" />
+<p align="center"><img src="https://img.shields.io/badge/REACH%20ME-0F2027?style=for-the-badge&logo=maildotru&logoColor=58A6FF" alt="Reach me" /></p>
 
-<p>
+<p align="center">
   <a href="mailto:avionicharshit@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.youtube.com/c/avionicharshit"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://avionicharshit-byte.github.io/mcufit/"><img src="https://img.shields.io/badge/mcufit-2563EB?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
