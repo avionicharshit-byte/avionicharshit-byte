@@ -77,6 +77,7 @@ Mostly the memory arithmetic: what fits, what an ARMv7 core can hold in real tim
 
 <table align="center">
 <tr><td><b><a href="https://github.com/nlohmann/json">nlohmann/json</a></b></td><td><img src="https://img.shields.io/github/stars/nlohmann/json?style=flat-square&color=gold&labelColor=0F2027" /></td><td>JSON for Modern C++</td></tr>
+<tr><td><b><a href="https://github.com/fmtlib/fmt">fmtlib/fmt</a></b></td><td><img src="https://img.shields.io/github/stars/fmtlib/fmt?style=flat-square&color=gold&labelColor=0F2027" /></td><td>A modern formatting library for C++</td></tr>
 <tr><td><b><a href="https://github.com/yhirose/cpp-httplib">yhirose/cpp-httplib</a></b></td><td><img src="https://img.shields.io/github/stars/yhirose/cpp-httplib?style=flat-square&color=gold&labelColor=0F2027" /></td><td>A C++ header-only HTTP/HTTPS server and client library</td></tr>
 <tr><td><b><a href="https://github.com/livekit/agents">livekit/agents</a></b></td><td><img src="https://img.shields.io/github/stars/livekit/agents?style=flat-square&color=gold&labelColor=0F2027" /></td><td>A framework for building realtime voice AI agents</td></tr>
 <tr><td><b><a href="https://github.com/cactus-compute/needle">cactus-compute/needle</a></b></td><td><img src="https://img.shields.io/github/stars/cactus-compute/needle?style=flat-square&color=gold&labelColor=0F2027" /></td><td>14MB foundation model for phones, wearables, smart home and robots</td></tr>
