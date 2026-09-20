@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=190&section=header&text=Harshit&fontColor=ffffff&fontSize=68&fontAlignY=36&desc=embedded%20x%20AI&descAlignY=57&descSize=20&animation=fadeIn" width="100%" alt="Harshit" />
 
 <p align="center">
-  <a href="https://avionicharshit-byte.github.io/mcufit/">
+  <a href="https://github.com/avionicharshit-byte/tinycue">
     <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=21&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=firmware%2C+IoT+hardware%2C+and+tools+for+tiny+machines;running+AI+on+devices+that+are+too+small+for+it;what+fits+in+memory%2C+and+when+it+honestly+does+not" alt="firmware, IoT hardware, and tools for tiny machines" />
   </a>
 </p>
@@ -46,6 +46,18 @@
 <tr>
 <td width="33%" valign="top" align="center">
 
+<a href="https://github.com/avionicharshit-byte/tinycue"><img src="https://img.shields.io/badge/tinycue-20C030?style=for-the-badge&logo=arduino&logoColor=white" alt="tinycue" /></a>
+
+**Say it to a chip. No network, no model server.**
+
+A YAML file of example commands becomes a 250 KB model and a C99 runtime. The chip reads a sentence and answers `set_light(room=bedroom, state=on)` in 5 ms, or says unsure instead of guessing. English and Hinglish.
+
+<img src="https://img.shields.io/badge/249%20KB%20model-20C030?style=flat-square" />
+<img src="https://img.shields.io/badge/5%20ms%20on%20an%20ESP32-20C030?style=flat-square" />
+
+</td>
+<td width="33%" valign="top" align="center">
+
 <a href="https://github.com/avionicharshit-byte/mcufit"><img src="https://img.shields.io/badge/mcufit-2563EB?style=for-the-badge&logo=arduino&logoColor=white" alt="mcufit" /></a>
 
 **Will this model fit on this chip?**
@@ -54,18 +66,6 @@ Answers it before you flash. 31 boards, byte-exact memory from the real TFLite M
 
 <a href="https://avionicharshit-byte.github.io/mcufit/"><img src="https://img.shields.io/badge/try%20in%20browser-58A6FF?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/pip%20install%20mcufit-3776AB?style=flat-square&logo=pypi&logoColor=white" />
-
-</td>
-<td width="33%" valign="top" align="center">
-
-<a href="https://github.com/avionicharshit-byte/mcufit-bench"><img src="https://img.shields.io/badge/mcufit--bench-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="mcufit-bench" /></a>
-
-**What inference actually costs on real silicon.**
-
-The ground truth mcufit is checked against. 54 measurements across 4 models and 3 boards, per model and per layer, timed on hardware and not estimated. Anyone can add a board.
-
-<img src="https://img.shields.io/badge/54%20measurements-1C7C54?style=flat-square" />
-<img src="https://img.shields.io/badge/3%20boards-1C7C54?style=flat-square" />
 
 </td>
 <td width="33%" valign="top" align="center">
@@ -109,7 +109,7 @@ Mostly the memory arithmetic: what fits, what an ARMv7 core can hold in real tim
 <p align="center">
   <a href="mailto:avionicharshit@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.youtube.com/c/avionicharshit"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://avionicharshit-byte.github.io/mcufit/"><img src="https://img.shields.io/badge/mcufit-2563EB?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+  <a href="https://github.com/avionicharshit-byte/tinycue"><img src="https://img.shields.io/badge/tinycue-20C030?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=110&section=footer" width="100%" alt="" />
