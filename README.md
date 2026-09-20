@@ -93,17 +93,6 @@ Mostly the memory arithmetic: what fits, what an ARMv7 core can hold in real tim
 
 <br>
 
-<p align="center"><img src="https://img.shields.io/badge/ALSO%20BUILT-0F2027?style=for-the-badge&logo=arduino&logoColor=58A6FF" alt="Also built" /></p>
-
-<table align="center">
-<tr><td><b><a href="https://github.com/avionicharshit-byte/loan-emi-negotiator">loan-emi-negotiator</a></b></td><td>an agent that drafts a lender-specific rate-negotiation email</td></tr>
-<tr><td><b><a href="https://github.com/avionicharshit-byte/docpilot">docpilot</a></b></td><td>document collection loop for vehicle-loan officers</td></tr>
-<tr><td><b><a href="https://github.com/avionicharshit-byte/fireAlertTelegram">fireAlertTelegram</a></b></td><td>ESP32 fire alert that pings you on Telegram</td></tr>
-<tr><td><b><a href="https://github.com/avionicharshit-byte/LaserTurret">LaserTurret</a></b></td><td>laser module on a servo gimbal, aimed with a PS2 joystick</td></tr>
-</table>
-
-<br>
-
 <p align="center"><img src="https://img.shields.io/badge/REACH%20ME-0F2027?style=for-the-badge&logo=maildotru&logoColor=58A6FF" alt="Reach me" /></p>
 
 <p align="center">
