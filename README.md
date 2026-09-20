@@ -10,36 +10,6 @@
   <img src="https://skillicons.dev/icons?i=cpp,c,python,ts,go,kotlin,linux,cmake,bash,git&theme=dark" alt="C++, C, Python, TypeScript, Go, Kotlin, Linux, CMake, Bash, Git" />
 </p>
 
-<p align="center"><img src="https://img.shields.io/badge/CONTRIBUTING%20TO-0F2027?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Contributing to" /></p>
-
-<table align="center">
-<tr><td><b><a href="https://github.com/nlohmann/json">nlohmann/json</a></b></td><td><img src="https://img.shields.io/github/stars/nlohmann/json?style=flat-square&color=gold&labelColor=0F2027" /></td><td>JSON for Modern C++</td></tr>
-<tr><td><b><a href="https://github.com/duckdb/duckdb">duckdb/duckdb</a></b></td><td><img src="https://img.shields.io/github/stars/duckdb/duckdb?style=flat-square&color=gold&labelColor=0F2027" /></td><td>An analytical in-process SQL database</td></tr>
-<tr><td><b><a href="https://github.com/cathrynlavery/diagram-design">cathrynlavery/diagram-design</a></b></td><td><img src="https://img.shields.io/github/stars/cathrynlavery/diagram-design?style=flat-square&color=gold&labelColor=0F2027" /></td><td>Editorial diagram design for coding agents, HTML and SVG</td></tr>
-<tr><td><b><a href="https://github.com/fmtlib/fmt">fmtlib/fmt</a></b></td><td><img src="https://img.shields.io/github/stars/fmtlib/fmt?style=flat-square&color=gold&labelColor=0F2027" /></td><td>A modern formatting library for C++</td></tr>
-<tr><td><b><a href="https://github.com/yhirose/cpp-httplib">yhirose/cpp-httplib</a></b></td><td><img src="https://img.shields.io/github/stars/yhirose/cpp-httplib?style=flat-square&color=gold&labelColor=0F2027" /></td><td>A C++ header-only HTTP/HTTPS server and client library</td></tr>
-<tr><td><b><a href="https://github.com/livekit/agents">livekit/agents</a></b></td><td><img src="https://img.shields.io/github/stars/livekit/agents?style=flat-square&color=gold&labelColor=0F2027" /></td><td>A framework for building realtime voice AI agents</td></tr>
-<tr><td><b><a href="https://github.com/cactus-compute/needle">cactus-compute/needle</a></b></td><td><img src="https://img.shields.io/github/stars/cactus-compute/needle?style=flat-square&color=gold&labelColor=0F2027" /></td><td>14MB foundation model for phones, wearables, smart home and robots</td></tr>
-<tr><td><b><a href="https://github.com/growthbook/growthbook">growthbook/growthbook</a></b></td><td><img src="https://img.shields.io/github/stars/growthbook/growthbook?style=flat-square&color=gold&labelColor=0F2027" /></td><td>Open source feature flags, experimentation and product analytics</td></tr>
-<tr><td><b><a href="https://github.com/tailscale/tailcat">tailscale/tailcat</a></b></td><td><img src="https://img.shields.io/github/stars/tailscale/tailcat?style=flat-square&color=gold&labelColor=0F2027" /></td><td>Like netcat, but over Tailscale's data plane</td></tr>
-<tr><td><b><a href="https://github.com/Serial-Studio/Serial-Studio">Serial-Studio/Serial-Studio</a></b></td><td><img src="https://img.shields.io/github/stars/Serial-Studio/Serial-Studio?style=flat-square&color=gold&labelColor=0F2027" /></td><td>Telemetry dashboard for UART, BLE, MQTT, Modbus and CAN bus</td></tr>
-<tr><td><b><a href="https://github.com/Openpanel-dev/openpanel">Openpanel-dev/openpanel</a></b></td><td><img src="https://img.shields.io/github/stars/Openpanel-dev/openpanel?style=flat-square&color=gold&labelColor=0F2027" /></td><td>Open-source web and product analytics, an alternative to Mixpanel</td></tr>
-<tr><td><b><a href="https://github.com/facebook/openzl">facebook/openzl</a></b></td><td><img src="https://img.shields.io/github/stars/facebook/openzl?style=flat-square&color=gold&labelColor=0F2027" /></td><td>Format-aware lossless data compression from Meta</td></tr>
-<tr><td><b><a href="https://github.com/0xShug0/audio.cpp">0xShug0/audio.cpp</a></b></td><td><img src="https://img.shields.io/github/stars/0xShug0/audio.cpp?style=flat-square&color=gold&labelColor=0F2027" /></td><td>Pure C++ inference engine for audio models, powered by ggml</td></tr>
-</table>
-
-<br>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/avionicharshit-byte/avionicharshit-byte/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/avionicharshit-byte/avionicharshit-byte/output/github-snake.svg" />
-  <img alt="contribution grid being eaten by a snake" src="https://raw.githubusercontent.com/avionicharshit-byte/avionicharshit-byte/output/github-snake.svg" width="100%" />
-</picture>
-</p>
-
-<br>
-
 <p align="center"><img src="https://img.shields.io/badge/WHAT%20I'M%20BUILDING-0F2027?style=for-the-badge&logo=rocket&logoColor=58A6FF" alt="What I'm building" /></p>
 
 <table align="center">
@@ -80,6 +50,36 @@ Point it at your data. It writes the OpenZL description, trains a compressor, ve
 
 </td>
 </tr>
+</table>
+
+<br>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/avionicharshit-byte/avionicharshit-byte/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/avionicharshit-byte/avionicharshit-byte/output/github-snake.svg" />
+  <img alt="contribution grid being eaten by a snake" src="https://raw.githubusercontent.com/avionicharshit-byte/avionicharshit-byte/output/github-snake.svg" width="100%" />
+</picture>
+</p>
+
+<br>
+
+<p align="center"><img src="https://img.shields.io/badge/CONTRIBUTING%20TO-0F2027?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Contributing to" /></p>
+
+<table align="center">
+<tr><td><b><a href="https://github.com/nlohmann/json">nlohmann/json</a></b></td><td><img src="https://img.shields.io/github/stars/nlohmann/json?style=flat-square&color=gold&labelColor=0F2027" /></td><td>JSON for Modern C++</td></tr>
+<tr><td><b><a href="https://github.com/duckdb/duckdb">duckdb/duckdb</a></b></td><td><img src="https://img.shields.io/github/stars/duckdb/duckdb?style=flat-square&color=gold&labelColor=0F2027" /></td><td>An analytical in-process SQL database</td></tr>
+<tr><td><b><a href="https://github.com/cathrynlavery/diagram-design">cathrynlavery/diagram-design</a></b></td><td><img src="https://img.shields.io/github/stars/cathrynlavery/diagram-design?style=flat-square&color=gold&labelColor=0F2027" /></td><td>Editorial diagram design for coding agents, HTML and SVG</td></tr>
+<tr><td><b><a href="https://github.com/fmtlib/fmt">fmtlib/fmt</a></b></td><td><img src="https://img.shields.io/github/stars/fmtlib/fmt?style=flat-square&color=gold&labelColor=0F2027" /></td><td>A modern formatting library for C++</td></tr>
+<tr><td><b><a href="https://github.com/yhirose/cpp-httplib">yhirose/cpp-httplib</a></b></td><td><img src="https://img.shields.io/github/stars/yhirose/cpp-httplib?style=flat-square&color=gold&labelColor=0F2027" /></td><td>A C++ header-only HTTP/HTTPS server and client library</td></tr>
+<tr><td><b><a href="https://github.com/livekit/agents">livekit/agents</a></b></td><td><img src="https://img.shields.io/github/stars/livekit/agents?style=flat-square&color=gold&labelColor=0F2027" /></td><td>A framework for building realtime voice AI agents</td></tr>
+<tr><td><b><a href="https://github.com/cactus-compute/needle">cactus-compute/needle</a></b></td><td><img src="https://img.shields.io/github/stars/cactus-compute/needle?style=flat-square&color=gold&labelColor=0F2027" /></td><td>14MB foundation model for phones, wearables, smart home and robots</td></tr>
+<tr><td><b><a href="https://github.com/growthbook/growthbook">growthbook/growthbook</a></b></td><td><img src="https://img.shields.io/github/stars/growthbook/growthbook?style=flat-square&color=gold&labelColor=0F2027" /></td><td>Open source feature flags, experimentation and product analytics</td></tr>
+<tr><td><b><a href="https://github.com/tailscale/tailcat">tailscale/tailcat</a></b></td><td><img src="https://img.shields.io/github/stars/tailscale/tailcat?style=flat-square&color=gold&labelColor=0F2027" /></td><td>Like netcat, but over Tailscale's data plane</td></tr>
+<tr><td><b><a href="https://github.com/Serial-Studio/Serial-Studio">Serial-Studio/Serial-Studio</a></b></td><td><img src="https://img.shields.io/github/stars/Serial-Studio/Serial-Studio?style=flat-square&color=gold&labelColor=0F2027" /></td><td>Telemetry dashboard for UART, BLE, MQTT, Modbus and CAN bus</td></tr>
+<tr><td><b><a href="https://github.com/Openpanel-dev/openpanel">Openpanel-dev/openpanel</a></b></td><td><img src="https://img.shields.io/github/stars/Openpanel-dev/openpanel?style=flat-square&color=gold&labelColor=0F2027" /></td><td>Open-source web and product analytics, an alternative to Mixpanel</td></tr>
+<tr><td><b><a href="https://github.com/facebook/openzl">facebook/openzl</a></b></td><td><img src="https://img.shields.io/github/stars/facebook/openzl?style=flat-square&color=gold&labelColor=0F2027" /></td><td>Format-aware lossless data compression from Meta</td></tr>
+<tr><td><b><a href="https://github.com/0xShug0/audio.cpp">0xShug0/audio.cpp</a></b></td><td><img src="https://img.shields.io/github/stars/0xShug0/audio.cpp?style=flat-square&color=gold&labelColor=0F2027" /></td><td>Pure C++ inference engine for audio models, powered by ggml</td></tr>
 </table>
 
 <br>
