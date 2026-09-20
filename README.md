@@ -52,7 +52,7 @@
 
 A YAML file of example commands becomes a 250 KB model and a C99 runtime. The chip reads a sentence and answers `set_light(room=bedroom, state=on)` in 5 ms, or says unsure instead of guessing. English and Hinglish.
 
-<img src="https://img.shields.io/badge/249%20KB%20model-20C030?style=flat-square" />
+<img src="https://img.shields.io/badge/pip%20install%20tinycue-3776AB?style=flat-square&logo=pypi&logoColor=white" />
 <img src="https://img.shields.io/badge/5%20ms%20on%20an%20ESP32-20C030?style=flat-square" />
 
 </td>
