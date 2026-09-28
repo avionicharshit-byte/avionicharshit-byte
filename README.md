@@ -83,7 +83,7 @@ Point it at your data. It writes the OpenZL description, trains a compressor, ve
 
 <br>
 
-<p align="center"><img src="https://img.shields.io/badge/VOICE%20AI-0F2027?style=for-the-badge&logo=livekit&logoColor=58A6FF" alt="Voice AI" /></p>
+<p align="center"><img src="https://img.shields.io/badge/VOICE%20AI-0F2027?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNThBNkZGIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTEyIDJhMyAzIDAgMCAwLTMgM3Y3YTMgMyAwIDAgMCA2IDBWNWEzIDMgMCAwIDAtMy0zWiIvPjxwYXRoIGQ9Ik0xOSAxMHYyYTcgNyAwIDAgMS0xNCAwdi0yIi8%2BPGxpbmUgeDE9IjEyIiB4Mj0iMTIiIHkxPSIxOSIgeTI9IjIyIi8%2BPC9zdmc%2B" alt="Voice AI" /></p>
 
 <p align="center">
 Voice agents: speech in, a reply out, fast enough for a phone call.<br>
