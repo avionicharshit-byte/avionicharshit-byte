@@ -28,13 +28,13 @@ A YAML file of example commands becomes a 250 KB model. It reads a sentence like
 </td>
 <td width="33%" valign="top" align="center">
 
-<a href="https://github.com/avionicharshit-byte/loan-emi-negotiator"><img src="https://img.shields.io/badge/loan--emi--negotiator-2563EB?style=for-the-badge" alt="loan-emi-negotiator" /></a>
+<a href="https://github.com/avionicharshit-byte/docpilot"><img src="https://img.shields.io/badge/DocPilot-2563EB?style=for-the-badge&logo=react&logoColor=white" alt="DocPilot" /></a>
 
-**An AI agent that writes the ask to your bank.**
+**An AI document agent for loan officers, designed for Superleap CRM.**
 
-Turns an Indian borrower's loan profile into a rate-reduction plan: target rate, ranked arguments with sources, a draft email and a phone script. Every claim cites a source, nothing auto-sends.
+It asks the customer for documents over WhatsApp, reads them with OCR, fills the CRM, chases blurry or expired files, and only hands a case to the officer when a person has to decide. An interactive prototype with four real applicant scenarios.
 
-<a href="https://loan-emi-negotiator.netlify.app/"><img src="https://img.shields.io/badge/live%20demo-58A6FF?style=flat-square&logo=netlify&logoColor=white" /></a>
+<a href="https://superleap-docpilot.netlify.app/"><img src="https://img.shields.io/badge/live%20demo-58A6FF?style=flat-square&logo=netlify&logoColor=white" /></a>
 
 </td>
 <td width="33%" valign="top" align="center">
