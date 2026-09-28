@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/livekit/agents">
-    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=21&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=voice+agents%2C+speech+models+and+the+code+around+them;merged+fixes+in+LiveKit+agents;offline+command+understanding+in+English+and+Hinglish" alt="voice agents, speech models and the code around them" />
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=21&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=voice+agents%2C+speech+models+and+the+code+around+them;speech+in%2C+a+reply+out%2C+fast+enough+for+a+phone+call;offline+command+understanding+in+English+and+Hinglish" alt="voice agents, speech models and the code around them" />
   </a>
 </p>
 
