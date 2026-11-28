@@ -31,12 +31,4 @@
 | [openzl-agent](https://github.com/avionicharshit-byte/openzl-agent) | Trains an OpenZL compressor for your data. 50% smaller than zstd -3 on a CSV. |
 | [docpilot](https://github.com/avionicharshit-byte/docpilot) | Document agent prototype for loan officers. [Demo](https://superleap-docpilot.netlify.app/) |
 
-```console
-$ tinycue parse out/model "bedroom ki light on karo"
-set_light(room=bedroom, state=on) confidence=1.00
-
-$ tinycue parse out/model "order me a pizza"
-none confidence=0.95
-```
-
-avionicharshit@gmail.com · [YouTube](https://www.youtube.com/c/avionicharshit)
+avionicharshit@gmail.com · [YouTube](https://www.youtube.com/@AvionicHarshit)
